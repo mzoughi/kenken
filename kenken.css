@@ -53,7 +53,7 @@ td {
     border-bottom: 3px solid black;
 }
 .wall-right {
-    border-right: 3px solid black;
+    border-right: 3px solid blue;
 }
 .solver-message {
     text-align: center;
